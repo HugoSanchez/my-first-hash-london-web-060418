@@ -1,5 +1,5 @@
 def my_hash
-  return {}
+  return {"key" = "value"}
 end
 
 
